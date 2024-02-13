@@ -1,0 +1,39 @@
+[
+  {
+    "role": "Data Ecoder",
+    "organisation": "Office of the Vice Mayor - San Rafael, Bulacan",
+    "startDate": "Novemeber 2019",
+    "endDate": "February 2020",
+    "experiences": ["Encoding, Managing or arranging papers for weekly sessions.", "Collaborating with all other department in municipality."],
+    "imageSrc": "history/sanrafael.jpg"
+  },
+  {
+    "role": "UI/UX Designer",
+    "organisation": "Google Developer Student Clubs - NU Bulacan",
+    "startDate": "August 2022",
+    "endDate": "August 2023",
+    "experiences": ["Creating and designing prototype", "Attending seminars provided by GDSC - NU Bulacan"],
+    "imageSrc": "history/gdsc.jpg"
+  },
+  {
+    "role": "UI/UX Designer",
+    "organisation": "Prime Phillippines",
+    "startDate": "January, 2024",
+    "endDate": "March, 2024",
+    "experiences": [
+      "Creating and designing prototype",
+      "Designing Prime Philippines Websites"
+    ],
+    "imageSrc": "history/primePH.jpg"
+  },
+  {
+    "role": "Member",
+    "organisation": "AWS Cloud Club National University Bulacan",
+    "startDate": "November 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Attending seminars provided by AWS - NU Bulacan"
+    ],
+    "imageSrc": "history/aws.jpg"
+  }
+]

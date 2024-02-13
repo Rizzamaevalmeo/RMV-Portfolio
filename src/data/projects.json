@@ -1,0 +1,26 @@
+[
+  {
+    "title": "MindSight",
+    "imageSrc": "projects/mindsight.png",
+    "description": "This is our capstone project, designed to cater to individuals dealing with dementia.",
+    "skills": ["flutterflow", "firebase","figma"],
+    "demo": "https://www.mediafire.com/file/wbyxuqw3vnay2e2/USER-MANUAL.docx/file",
+    "source": "https://github.com/Rizzamaevalmeo/MindSight"
+  },
+  {
+    "title": "VM's Softdrinks Distributor",
+    "imageSrc": "projects/vm.png",
+    "description": "This is a prototype that we use in International Research Conference on Information Technology Education 2023 (IRCITE).",
+    "skills": ["Figma"],
+    "demo": "https://www.figma.com/proto/n3oOasRUYCWavSmFlJuHLp/VMs?page-id=303%3A7252&type=design&node-id=702-8778&viewport=2449%2C2828%2C0.68&t=CtzHlK7vfKz0tf8z-1&scaling=scale-down&starting-point-node-id=809%3A11536&mode=design",
+    "source": "https://www.researchgate.net/profile/Mary-Ann-Valentino/publication/371167920_UIUX_Mobile_Applicaton_Design_OF_VM'S_Softdrinks_Distributor/links/647734fcd702370600c4ffb7/UI-UX-Mobile-Applicaton-Design-OF-VMS-Softdrinks-Distributor.pdf"
+  },
+  {
+    "title": "Prime Philippines",
+    "imageSrc": "projects/project.png",
+    "description": "During our internship we design their websites.",
+    "skills": ["React", "Figma", "Node", "CSS"],
+    "demo": "https://www.primephilippines.com",
+    "source": "https://www.primephilippines.com"
+  }
+]

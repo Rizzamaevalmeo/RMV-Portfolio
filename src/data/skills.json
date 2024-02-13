@@ -1,0 +1,46 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  }, 
+  {
+    "title": "php",
+    "imageSrc": "skills/php.png"
+  }, 
+  {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  }, 
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  }, 
+  {
+    "title": "Mirosoft",
+    "imageSrc": "skills/microsoft.png"
+  }, 
+  {
+    "title": "Flutterflow",
+    "imageSrc": "skills/flutterflow.png"
+  }, 
+  {
+    "title": "Firebase",
+    "imageSrc": "skills/firebase.png"
+  }
+]

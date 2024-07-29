@@ -9,14 +9,14 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, Rizza Mae</h1>
         <p className={styles.description}>
-        I'm a UI/UX Designer with some knowledge in both frontend and backend development, Reach out if you'd like to learn more!
+        A motivated and diligent fresh graduate with an excellent academic background and a passion for UI/UX, mobile, web, and software development. Eager to gain practical experience and enhance my skills in a dynamic and challenging environment.
         </p>
         <a href="mailto:rizzamaevalmeo@outlook.com" className={styles.contactBtn}>
           Contact Me
         </a>
       </div>
       <img
-        src={getImageUrl("hero/heroImage.png")}
+        src={getImageUrl("hero/DSC_0064.JPG")}
         alt="Hero image of me"
         className={styles.heroImg}
       />

@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Information Technology</h3>
               <p>
-                August 2020 - Present
+                August 2020 - August 2024
               </p>
               <p>
                 National University - Bulacan
